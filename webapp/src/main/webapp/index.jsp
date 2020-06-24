@@ -7,6 +7,5 @@ bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 nnnnnnnnnnnnnnn
 
 this is a test branch
-
-test branch, this is master branch
+this is master branch
 
